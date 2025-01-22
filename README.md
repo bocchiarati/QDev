@@ -1,1 +1,2 @@
-# QDev
+# QDev #
+## CHERCHARI Sofien - BÉNA Hugo ## 
